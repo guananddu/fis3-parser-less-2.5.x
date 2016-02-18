@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-less-2.5.x",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fis3 plugin for less 2.5.x parsing",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/guananddu/fis3-parser-less-2.5.x#readme",
   "dependencies": {
-    "less": "^2.5.3"
+    "less": "^2.6.0"
   }
 }
